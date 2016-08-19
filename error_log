@@ -1,0 +1,344 @@
+[23-Jun-2016 12:05:04 America/New_York] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/dev1itda/public_html/TEMP/EnergyPlus/application/core/MY_Controller.php on line 28
+[23-Jun-2016 12:26:02 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1289
+[23-Jun-2016 12:26:43 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1289
+[23-Jun-2016 12:28:01 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1289
+[23-Jun-2016 12:28:13 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1289
+[23-Jun-2016 12:28:25 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1289
+[23-Jun-2016 12:29:49 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1289
+[23-Jun-2016 12:30:30 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickCore.so.4: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[23-Jun-2016 12:32:26 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1289
+[23-Jun-2016 12:33:10 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1289
+[23-Jun-2016 12:33:54 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 817
+[23-Jun-2016 12:34:10 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1289
+[23-Jun-2016 12:35:33 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1191
+[23-Jun-2016 12:35:58 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 824
+[23-Jun-2016 12:36:25 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1187
+[23-Jun-2016 12:37:47 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1180
+[23-Jun-2016 12:38:28 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1146
+[23-Jun-2016 12:42:00 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 850
+[23-Jun-2016 12:42:25 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1146
+[23-Jun-2016 12:43:59 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1131
+[23-Jun-2016 12:45:22 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1109
+[23-Jun-2016 12:46:31 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1093
+[23-Jun-2016 12:47:35 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1048
+[23-Jun-2016 12:48:03 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1039
+[23-Jun-2016 12:48:24 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1033
+[23-Jun-2016 12:50:16 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1033
+[30-Jun-2016 02:44:39 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1033
+[30-Jun-2016 02:47:00 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1033
+[30-Jun-2016 02:49:55 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1033
+[30-Jun-2016 02:52:05 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1033
+[30-Jun-2016 03:36:53 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1033
+[30-Jun-2016 03:37:55 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1033
+[30-Jun-2016 03:48:47 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1033
+[30-Jun-2016 03:50:44 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1035
+[30-Jun-2016 03:50:45 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1035
+[30-Jun-2016 03:50:54 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1035
+[30-Jun-2016 03:50:54 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1035
+[30-Jun-2016 03:50:55 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1035
+[30-Jun-2016 03:51:08 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1034
+[30-Jun-2016 03:51:09 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1034
+[30-Jun-2016 03:51:56 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 706
+[30-Jun-2016 03:52:16 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 706
+[30-Jun-2016 03:52:39 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1035
+[30-Jun-2016 03:53:02 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 706
+[30-Jun-2016 03:53:21 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 706
+[30-Jun-2016 03:53:28 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 706
+[30-Jun-2016 03:53:42 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1035
+[30-Jun-2016 03:55:15 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1035
+[30-Jun-2016 03:56:23 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 769
+[30-Jun-2016 03:56:36 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 769
+[30-Jun-2016 04:05:19 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 769
+[30-Jun-2016 04:19:52 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1035
+[30-Jun-2016 04:28:05 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1035
+[30-Jun-2016 04:29:49 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1035
+[30-Jun-2016 04:32:29 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1035
+[30-Jun-2016 04:38:55 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1035
+[30-Jun-2016 04:39:46 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1035
+[30-Jun-2016 04:40:14 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 707
+[30-Jun-2016 04:40:41 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1033
+[30-Jun-2016 04:41:05 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1027
+[30-Jun-2016 04:41:53 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1024
+[30-Jun-2016 04:42:22 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1024
+[30-Jun-2016 04:43:19 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1018
+[30-Jun-2016 04:43:51 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 999
+[30-Jun-2016 04:44:02 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1017
+[30-Jun-2016 04:44:33 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1013
+[30-Jun-2016 04:44:51 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1017
+[30-Jun-2016 04:45:07 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1016
+[30-Jun-2016 04:45:24 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1016
+[30-Jun-2016 04:45:42 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1016
+[30-Jun-2016 04:46:20 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1016
+[30-Jun-2016 04:47:21 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1016
+[30-Jun-2016 04:48:29 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1016
+[30-Jun-2016 04:51:23 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1016
+[30-Jun-2016 04:52:31 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1016
+[30-Jun-2016 04:53:04 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1015
+[30-Jun-2016 04:53:39 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1015
+[30-Jun-2016 04:54:35 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1015
+[30-Jun-2016 04:55:06 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1012
+[30-Jun-2016 04:55:29 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1009
+[30-Jun-2016 04:55:52 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1006
+[30-Jun-2016 04:57:14 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1008
+[30-Jun-2016 04:57:39 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1009
+[30-Jun-2016 04:58:32 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1006
+[30-Jun-2016 04:58:54 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 1002
+[30-Jun-2016 05:00:05 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 996
+[30-Jun-2016 05:00:41 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 993
+[30-Jun-2016 05:01:30 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 993
+[30-Jun-2016 05:01:56 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 992
+[30-Jun-2016 05:02:17 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 990
+[30-Jun-2016 05:02:32 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 989
+[30-Jun-2016 05:02:45 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 988
+[30-Jun-2016 05:03:19 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 987
+[30-Jun-2016 05:03:42 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 987
+[30-Jun-2016 05:04:11 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 986
+[30-Jun-2016 05:04:54 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 719
+[30-Jun-2016 05:05:21 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 719
+[30-Jun-2016 05:05:34 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 718
+[30-Jun-2016 05:06:09 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 715
+[30-Jun-2016 05:06:41 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 718
+[30-Jun-2016 05:09:14 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 718
+[30-Jun-2016 05:24:59 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 719
+[30-Jun-2016 05:26:24 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 719
+[30-Jun-2016 05:27:18 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 683
+[30-Jun-2016 05:28:13 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 683
+[30-Jun-2016 05:29:01 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 655
+[30-Jun-2016 05:29:48 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 662
+[30-Jun-2016 05:30:09 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 658
+[30-Jun-2016 05:30:29 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 651
+[30-Jun-2016 05:30:56 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 642
+[30-Jun-2016 05:31:00 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 642
+[30-Jun-2016 05:31:14 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 634
+[30-Jun-2016 05:31:40 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 626
+[30-Jun-2016 05:32:01 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 620
+[30-Jun-2016 05:32:16 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 612
+[30-Jun-2016 05:32:33 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 604
+[30-Jun-2016 05:33:23 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 604
+[30-Jun-2016 05:33:37 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 599
+[30-Jun-2016 05:33:58 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 599
+[30-Jun-2016 05:36:12 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 599
+[30-Jun-2016 05:36:35 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 595
+[30-Jun-2016 05:36:56 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 584
+[30-Jun-2016 05:37:08 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 581
+[30-Jun-2016 05:40:34 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 226
+[30-Jun-2016 05:40:37 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 226
+[30-Jun-2016 05:41:41 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 226
+[30-Jun-2016 05:41:43 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 226
+[30-Jun-2016 05:41:58 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 581
+[30-Jun-2016 05:42:00 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 226
+[30-Jun-2016 05:42:01 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 226
+[30-Jun-2016 05:42:48 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 226
+[30-Jun-2016 05:42:51 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 226
+[30-Jun-2016 05:43:35 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 581
+[30-Jun-2016 05:43:37 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 226
+[30-Jun-2016 05:43:38 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 226
+[30-Jun-2016 05:44:16 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 226
+[30-Jun-2016 05:44:19 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 226
+[30-Jun-2016 05:44:40 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 599
+[30-Jun-2016 05:44:43 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 226
+[30-Jun-2016 05:44:44 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 226
+[30-Jun-2016 05:44:54 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 226
+[30-Jun-2016 05:44:59 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 226
+[30-Jun-2016 05:45:20 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 226
+[30-Jun-2016 05:45:22 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 226
+[30-Jun-2016 05:45:52 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 226
+[30-Jun-2016 05:45:54 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 226
+[30-Jun-2016 05:46:25 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 226
+[30-Jun-2016 05:46:27 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 226
+[30-Jun-2016 05:47:01 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 226
+[30-Jun-2016 05:47:04 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 226
+[30-Jun-2016 05:47:35 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 226
+[30-Jun-2016 05:47:37 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 226
+[30-Jun-2016 05:47:58 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 226
+[30-Jun-2016 05:48:01 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 226
+[30-Jun-2016 05:48:07 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 226
+[30-Jun-2016 05:48:07 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 226
+[30-Jun-2016 05:48:08 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 226
+[30-Jun-2016 05:48:08 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 226
+[30-Jun-2016 05:48:11 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 226
+[30-Jun-2016 05:48:20 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 226
+[30-Jun-2016 05:48:22 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 226
+[30-Jun-2016 05:48:29 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 226
+[30-Jun-2016 05:48:32 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 226
+[30-Jun-2016 05:49:06 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 226
+[30-Jun-2016 05:49:09 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 226
+[30-Jun-2016 05:56:27 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libwmf-0.2.so.7: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[30-Jun-2016 05:56:32 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 226
+[30-Jun-2016 05:56:35 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 226
+[30-Jun-2016 06:12:51 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 226
+[30-Jun-2016 06:12:53 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 226
+[30-Jun-2016 07:02:02 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 226
+[30-Jun-2016 07:02:06 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 226
+[30-Jun-2016 07:20:28 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 226
+[30-Jun-2016 07:20:32 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 226
+[30-Jun-2016 07:21:31 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 226
+[30-Jun-2016 07:21:32 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 226
+[30-Jun-2016 07:22:12 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 226
+[30-Jun-2016 07:22:13 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 226
+[30-Jun-2016 07:22:14 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 226
+[30-Jun-2016 07:24:18 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 226
+[30-Jun-2016 07:24:19 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 226
+[30-Jun-2016 07:32:30 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 226
+[30-Jun-2016 07:32:34 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 226
+[30-Jun-2016 07:34:36 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 144
+[30-Jun-2016 07:34:40 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 144
+[30-Jun-2016 07:35:06 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 142
+[30-Jun-2016 07:35:10 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 142
+[30-Jun-2016 07:35:37 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 142
+[30-Jun-2016 07:35:41 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 142
+[30-Jun-2016 07:40:07 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 142
+[30-Jun-2016 07:40:10 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 142
+[30-Jun-2016 07:40:22 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 142
+[30-Jun-2016 07:40:25 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 142
+[30-Jun-2016 07:40:34 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 142
+[30-Jun-2016 07:40:38 America/New_York] PHP Fatal error:  Call to undefined function _base_url() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/footer.php on line 142
+[30-Jun-2016 08:33:12 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/header.php on line 90
+[30-Jun-2016 11:02:17 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickCore.so.4: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[01-Jul-2016 08:52:50 America/New_York] PHP Fatal error:  Out of memory (allocated 524288) (tried to allocate 12288 bytes) in /home/dev1itda/public_html/TEMP/EnergyPlus/system/core/compat/hash.php on line 154
+[04-Jul-2016 05:23:55 America/New_York] PHP Fatal error:  Call to undefined function base_irl() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/admin/pages/addProduct.php on line 46
+[04-Jul-2016 05:24:03 America/New_York] PHP Fatal error:  Call to undefined function base_irl() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/admin/pages/addProduct.php on line 46
+[04-Jul-2016 05:45:16 America/New_York] PHP Fatal error:  Cannot redeclare Admin::addMainCategory() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/controllers/Admin.php on line 226
+[04-Jul-2016 06:15:23 America/New_York] PHP Parse error:  syntax error, unexpected '$', expecting '(' in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/admin/pages/addSubCategory.php on line 25
+[04-Jul-2016 06:15:37 America/New_York] PHP Parse error:  syntax error, unexpected '$category' (T_VARIABLE), expecting '(' in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/admin/pages/addSubCategory.php on line 25
+[04-Jul-2016 06:15:39 America/New_York] PHP Parse error:  syntax error, unexpected '$category' (T_VARIABLE), expecting '(' in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/admin/pages/addSubCategory.php on line 25
+[04-Jul-2016 06:57:18 America/New_York] PHP Fatal error:  Cannot redeclare Admin_model::getMainCategory() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/models/Admin_model.php on line 43
+[04-Jul-2016 07:20:47 America/New_York] PHP Fatal error:  Out of memory (allocated 524288) (tried to allocate 12288 bytes) in /home/dev1itda/public_html/TEMP/EnergyPlus/system/core/compat/hash.php on line 154
+[04-Jul-2016 09:05:16 America/New_York] PHP Fatal error:  Cannot redeclare Admin::addProduct() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/controllers/Admin.php on line 266
+[04-Jul-2016 10:44:26 America/New_York] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dev1itda/public_html/TEMP/EnergyPlus/application/models/Admin_model.php on line 52
+[05-Jul-2016 07:25:31 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/dev1itda/public_html/TEMP/EnergyPlus/application/models/Admin_model.php on line 68
+[05-Jul-2016 07:40:39 America/New_York] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/dev1itda/public_html/TEMP/EnergyPlus/application/models/Admin_model.php on line 105
+[05-Jul-2016 09:31:35 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[05-Jul-2016 09:31:35 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20100525/pdo_mysql.so: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[05-Jul-2016 09:31:35 America/New_York] PHP Fatal error:  Out of memory (allocated 262144) (tried to allocate 3072 bytes) in /home/dev1itda/public_html/TEMP/EnergyPlus/index.php on line 315
+[05-Jul-2016 09:50:01 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickCore.so.4: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[06-Jul-2016 05:31:09 America/New_York] PHP Fatal error:  Call to undefined method Product_model::saveSubCategory() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/controllers/Products.php on line 10
+[06-Jul-2016 06:20:42 America/New_York] PHP Parse error:  syntax error, unexpected '$v' (T_VARIABLE), expecting ',' or ';' in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 38
+[06-Jul-2016 06:50:22 America/New_York] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/products.php on line 31
+[06-Jul-2016 07:11:54 America/New_York] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE), expecting ';' or '{' in /home/dev1itda/public_html/TEMP/EnergyPlus/application/models/Product_model.php on line 16
+[06-Jul-2016 07:24:23 America/New_York] PHP Fatal error:  Call to undefined function pritn_r() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/product-detail.php on line 23
+[06-Jul-2016 09:48:50 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/product-detail.php on line 219
+[06-Jul-2016 09:49:38 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/product-detail.php on line 219
+[06-Jul-2016 10:47:03 America/New_York] PHP Fatal error:  Cannot redeclare Admin::index() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/controllers/Admin.php on line 254
+[06-Jul-2016 10:47:47 America/New_York] PHP Fatal error:  Call to undefined method Admin_model::getHotlDisc() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/controllers/Admin.php on line 259
+[06-Jul-2016 12:30:39 America/New_York] PHP Fatal error:  Call to undefined method Product_model::config() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/models/Product_model.php on line 11
+[06-Jul-2016 12:48:22 America/New_York] PHP Fatal error:  Call to undefined function getProduct() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/controllers/Products.php on line 9
+[07-Jul-2016 04:13:34 America/New_York] PHP Parse error:  syntax error, unexpected '++' (T_INC) in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/product-detail.php on line 71
+[07-Jul-2016 04:38:14 America/New_York] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/product-detail.php on line 53
+[07-Jul-2016 04:42:22 America/New_York] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/product-detail.php on line 53
+[07-Jul-2016 04:59:45 America/New_York] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/product-detail.php on line 94
+[07-Jul-2016 05:40:12 America/New_York] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/dev1itda/public_html/TEMP/EnergyPlus/application/models/Product_model.php on line 29
+[07-Jul-2016 05:45:20 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/dev1itda/public_html/TEMP/EnergyPlus/application/models/Product_model.php on line 33
+[07-Jul-2016 07:22:52 America/New_York] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/dev1itda/public_html/TEMP/EnergyPlus/application/models/Product_model.php on line 60
+[07-Jul-2016 07:36:05 America/New_York] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/product-detail.php on line 196
+[07-Jul-2016 07:40:33 America/New_York] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/product-detail.php on line 197
+[07-Jul-2016 07:40:49 America/New_York] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/product-detail.php on line 198
+[07-Jul-2016 10:38:32 America/New_York] PHP Fatal error:  Cannot redeclare Admin::products() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/controllers/Admin.php on line 176
+[08-Jul-2016 06:15:18 America/New_York] PHP Fatal error:  Unsupported operand types in /home/dev1itda/public_html/TEMP/EnergyPlus/application/models/Product_model.php on line 11
+[08-Jul-2016 10:50:51 America/New_York] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/dev1itda/public_html/TEMP/EnergyPlus/application/controllers/Products.php on line 34
+[08-Jul-2016 10:53:52 America/New_York] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/dev1itda/public_html/TEMP/EnergyPlus/application/controllers/Products.php on line 33
+[12-Jul-2016 16:36:21 America/New_York] PHP Fatal error:  Call to undefined method CI_DB_mysql_result::result_result() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/models/Product_model.php on line 60
+[13-Jul-2016 04:32:18 America/New_York] PHP Fatal error:  Call to undefined method CI_DB_mysql_driver::result_array() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/controllers/Products.php on line 54
+[13-Jul-2016 09:31:59 America/New_York] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/dev1itda/public_html/TEMP/EnergyPlus/application/models/Product_model.php on line 145
+[13-Jul-2016 10:05:53 America/New_York] PHP Notice:  Undefined index: log_path in /home/dev1itda/public_html/TEMP/EnergyPlus/system/core/Log.php on line 118
+[13-Jul-2016 10:05:53 America/New_York] PHP Notice:  Undefined index: log_path in /home/dev1itda/public_html/TEMP/EnergyPlus/system/core/Log.php on line 118
+[13-Jul-2016 10:05:53 America/New_York] PHP Warning:  mkdir(): Invalid path in /home/dev1itda/public_html/TEMP/EnergyPlus/system/core/Log.php on line 122
+[13-Jul-2016 10:05:53 America/New_York] PHP Notice:  Undefined index: log_threshold in /home/dev1itda/public_html/TEMP/EnergyPlus/system/core/Log.php on line 129
+[13-Jul-2016 10:05:53 America/New_York] PHP Notice:  Undefined index: log_threshold in /home/dev1itda/public_html/TEMP/EnergyPlus/system/core/Log.php on line 133
+[13-Jul-2016 10:10:13 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/dev1itda/public_html/TEMP/EnergyPlus/application/controllers/Products.php on line 26
+[13-Jul-2016 10:13:38 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/dev1itda/public_html/TEMP/EnergyPlus/application/controllers/Products.php on line 26
+[13-Jul-2016 10:14:40 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/dev1itda/public_html/TEMP/EnergyPlus/application/controllers/Products.php on line 26
+[13-Jul-2016 10:14:52 America/New_York] PHP Fatal error:  Can't use method return value in write context in /home/dev1itda/public_html/TEMP/EnergyPlus/application/controllers/Products.php on line 26
+[18-Jul-2016 04:10:14 America/New_York] PHP Parse error:  syntax error, unexpected '[' in /home/dev1itda/public_html/TEMP/EnergyPlus/application/controllers/Products.php on line 116
+[18-Jul-2016 04:13:32 America/New_York] PHP Parse error:  syntax error, unexpected '[' in /home/dev1itda/public_html/TEMP/EnergyPlus/application/controllers/Products.php on line 116
+[18-Jul-2016 04:14:05 America/New_York] PHP Parse error:  syntax error, unexpected '[' in /home/dev1itda/public_html/TEMP/EnergyPlus/application/controllers/Products.php on line 116
+[18-Jul-2016 04:16:38 America/New_York] PHP Fatal error:  Cannot re-assign auto-global variable _POST in /home/dev1itda/public_html/TEMP/EnergyPlus/application/controllers/Products.php on line 106
+[18-Jul-2016 04:17:02 America/New_York] PHP Fatal error:  Cannot re-assign auto-global variable _POST in /home/dev1itda/public_html/TEMP/EnergyPlus/application/controllers/Products.php on line 106
+[18-Jul-2016 04:17:43 America/New_York] PHP Fatal error:  Cannot re-assign auto-global variable _POST in /home/dev1itda/public_html/TEMP/EnergyPlus/application/controllers/Products.php on line 106
+[18-Jul-2016 04:50:24 America/New_York] PHP Fatal error:  Out of memory (allocated 524288) (tried to allocate 3200 bytes) in /home/dev1itda/public_html/TEMP/EnergyPlus/system/core/CodeIgniter.php on line 111
+[19-Jul-2016 03:51:31 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickCore.so.4: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[19-Jul-2016 06:50:01 America/New_York] PHP Parse error:  syntax error, unexpected 'Array' (T_ARRAY) in /home/dev1itda/public_html/TEMP/EnergyPlus/application/controllers/Products.php on line 111
+[19-Jul-2016 06:51:17 America/New_York] PHP Parse error:  syntax error, unexpected 'Array' (T_ARRAY) in /home/dev1itda/public_html/TEMP/EnergyPlus/application/controllers/Products.php on line 110
+[19-Jul-2016 06:52:00 America/New_York] PHP Parse error:  syntax error, unexpected 'Array' (T_ARRAY) in /home/dev1itda/public_html/TEMP/EnergyPlus/application/controllers/Products.php on line 110
+[21-Jul-2016 02:35:16 America/New_York] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/dev1itda/public_html/TEMP/EnergyPlus/application/models/Product_model.php on line 28
+[21-Jul-2016 02:35:20 America/New_York] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/dev1itda/public_html/TEMP/EnergyPlus/application/models/Product_model.php on line 28
+[21-Jul-2016 10:29:57 America/New_York] PHP Parse error:  syntax error, unexpected '"<?php echo base_url("' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/cart.php on line 106
+[22-Jul-2016 02:36:44 America/New_York] PHP Parse error:  syntax error, unexpected '(', expecting variable (T_VARIABLE) or '$' in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/cart.php on line 196
+[22-Jul-2016 03:37:58 America/New_York] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ',' or ')' in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/common/header.php on line 113
+[22-Jul-2016 04:49:47 America/New_York] PHP Fatal error:  Cannot use [] for reading in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/cart.php on line 23
+[22-Jul-2016 05:56:59 America/New_York] PHP Parse error:  syntax error, unexpected '.' in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/cart.php on line 55
+[22-Jul-2016 05:57:17 America/New_York] PHP Parse error:  syntax error, unexpected '.' in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/cart.php on line 55
+[22-Jul-2016 05:57:22 America/New_York] PHP Parse error:  syntax error, unexpected '.' in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/cart.php on line 55
+[22-Jul-2016 05:57:44 America/New_York] PHP Parse error:  syntax error, unexpected '.' in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/cart.php on line 55
+[22-Jul-2016 06:22:28 America/New_York] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/cart.php on line 24
+[22-Jul-2016 06:23:00 America/New_York] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/cart.php on line 24
+[22-Jul-2016 06:23:34 America/New_York] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/cart.php on line 24
+[22-Jul-2016 06:24:20 America/New_York] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/cart.php on line 24
+[22-Jul-2016 08:18:59 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/dev1itda/public_html/TEMP/EnergyPlus/application/controllers/Products.php on line 145
+[22-Jul-2016 08:20:47 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/dev1itda/public_html/TEMP/EnergyPlus/application/controllers/Products.php on line 145
+[22-Jul-2016 08:21:05 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/dev1itda/public_html/TEMP/EnergyPlus/application/controllers/Products.php on line 145
+[23-Jul-2016 06:54:13 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/dev1itda/public_html/TEMP/EnergyPlus/application/controllers/Products.php on line 168
+[23-Jul-2016 08:43:13 America/New_York] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE), expecting function (T_FUNCTION) in /home/dev1itda/public_html/TEMP/EnergyPlus/application/controllers/Products.php on line 177
+[26-Jul-2016 10:03:42 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/dev1itda/public_html/TEMP/EnergyPlus/application/models/Product_model.php on line 150
+[29-Jul-2016 02:34:39 America/New_York] PHP Fatal error:  Call to undefined method CI_DB_mysql_result::result_result() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/models/Admin_model.php on line 231
+[29-Jul-2016 05:43:14 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/dev1itda/public_html/TEMP/EnergyPlus/application/controllers/Services.php on line 27
+[29-Jul-2016 05:43:27 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/dev1itda/public_html/TEMP/EnergyPlus/application/controllers/Services.php on line 27
+[29-Jul-2016 05:59:58 America/New_York] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting :: (T_PAAMAYIM_NEKUDOTAYIM) in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/services.php on line 46
+[29-Jul-2016 06:00:11 America/New_York] PHP Parse error:  syntax error, unexpected '?' in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/services.php on line 51
+[29-Jul-2016 06:00:32 America/New_York] PHP Parse error:  syntax error, unexpected '?' in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/services.php on line 51
+[29-Jul-2016 06:07:37 America/New_York] PHP Fatal error:  Function name must be a string in /home/dev1itda/public_html/TEMP/EnergyPlus/application/models/Service_model.php on line 25
+[29-Jul-2016 06:07:51 America/New_York] PHP Fatal error:  Function name must be a string in /home/dev1itda/public_html/TEMP/EnergyPlus/application/models/Service_model.php on line 25
+[29-Jul-2016 06:08:21 America/New_York] PHP Fatal error:  Function name must be a string in /home/dev1itda/public_html/TEMP/EnergyPlus/application/models/Service_model.php on line 25
+[29-Jul-2016 06:10:30 America/New_York] PHP Fatal error:  Function name must be a string in /home/dev1itda/public_html/TEMP/EnergyPlus/application/models/Service_model.php on line 25
+[29-Jul-2016 06:12:20 America/New_York] PHP Fatal error:  Function name must be a string in /home/dev1itda/public_html/TEMP/EnergyPlus/application/models/Service_model.php on line 24
+[29-Jul-2016 06:12:34 America/New_York] PHP Fatal error:  Function name must be a string in /home/dev1itda/public_html/TEMP/EnergyPlus/application/models/Service_model.php on line 24
+[29-Jul-2016 06:13:35 America/New_York] PHP Fatal error:  Function name must be a string in /home/dev1itda/public_html/TEMP/EnergyPlus/application/models/Service_model.php on line 24
+[29-Jul-2016 06:47:59 America/New_York] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/product-detail.php on line 242
+[29-Jul-2016 06:49:45 America/New_York] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/product-detail.php on line 243
+[29-Jul-2016 06:50:46 America/New_York] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/product-detail.php on line 243
+[02-Aug-2016 04:08:38 America/New_York] PHP Fatal error:  Out of memory (allocated 3145728) (tried to allocate 154199 bytes) in /home/dev1itda/public_html/TEMP/EnergyPlus/system/core/Output.php on line 189
+[02-Aug-2016 05:04:26 America/New_York] PHP Fatal error:  Out of memory (allocated 262144) (tried to allocate 2560 bytes) in /home/dev1itda/public_html/TEMP/EnergyPlus/system/core/CodeIgniter.php on line 101
+[02-Aug-2016 08:25:12 America/New_York] PHP Parse error:  syntax error, unexpected '$B' (T_VARIABLE), expecting ',' or ';' in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/home/home.php on line 208
+[02-Aug-2016 08:26:15 America/New_York] PHP Parse error:  syntax error, unexpected '$B' (T_VARIABLE), expecting ',' or ';' in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/home/home.php on line 208
+[02-Aug-2016 08:26:35 America/New_York] PHP Parse error:  syntax error, unexpected '$B' (T_VARIABLE), expecting ',' or ';' in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/home/home.php on line 208
+[02-Aug-2016 08:27:02 America/New_York] PHP Parse error:  syntax error, unexpected '$B' (T_VARIABLE), expecting ',' or ';' in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/home/home.php on line 217
+[02-Aug-2016 08:39:19 America/New_York] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/home/home.php on line 193
+[02-Aug-2016 08:40:20 America/New_York] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/home/home.php on line 193
+[02-Aug-2016 08:40:42 America/New_York] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/home/home.php on line 193
+[02-Aug-2016 08:40:55 America/New_York] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/home/home.php on line 193
+[02-Aug-2016 08:42:17 America/New_York] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/home/home.php on line 193
+[02-Aug-2016 08:42:28 America/New_York] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/home/home.php on line 193
+[02-Aug-2016 08:42:46 America/New_York] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/home/home.php on line 193
+[02-Aug-2016 08:47:44 America/New_York] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/home/home.php on line 200
+[02-Aug-2016 08:47:58 America/New_York] PHP Fatal error:  Call to undefined function subbstring() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/home/home.php on line 197
+[02-Aug-2016 08:48:24 America/New_York] PHP Fatal error:  Call to undefined function substring() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/home/home.php on line 197
+[02-Aug-2016 11:40:44 America/New_York] PHP Parse error:  syntax error, unexpected '.' in /home/dev1itda/public_html/TEMP/EnergyPlus/application/controllers/Products.php on line 201
+[03-Aug-2016 05:21:23 America/New_York] PHP Fatal error:  Cannot redeclare Product_model::getProductForFooter1() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/models/Product_model.php on line 354
+[03-Aug-2016 05:25:10 America/New_York] PHP Fatal error:  Call to a member function result_array() on a non-object in /home/dev1itda/public_html/TEMP/EnergyPlus/application/models/Product_model.php on line 348
+[03-Aug-2016 05:38:13 America/New_York] PHP Fatal error:  Call to undefined method Admin_model::getServices() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/controllers/Admin.php on line 309
+[03-Aug-2016 06:12:11 America/New_York] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/admin/pages/editService.php on line 17
+[03-Aug-2016 06:19:01 America/New_York] PHP Fatal error:  Cannot redeclare Admin_model::updateProduct() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/models/Admin_model.php on line 236
+[03-Aug-2016 10:57:07 America/New_York] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20100525/imagick.so' - libMagickCore.so.4: cannot map zero-fill pages: Cannot allocate memory in Unknown on line 0
+[03-Aug-2016 10:57:13 America/New_York] PHP Fatal error:  Out of memory (allocated 524288) (tried to allocate 12288 bytes) in /home/dev1itda/public_html/TEMP/EnergyPlus/system/core/compat/hash.php on line 154
+[03-Aug-2016 10:57:13 America/New_York] PHP Fatal error:  Out of memory (allocated 262144) (tried to allocate 12288 bytes) in /home/dev1itda/public_html/TEMP/EnergyPlus/system/core/CodeIgniter.php on line 111
+[03-Aug-2016 10:57:13 America/New_York] PHP Fatal error:  Out of memory (allocated 262144) (tried to allocate 12288 bytes) in /home/dev1itda/public_html/TEMP/EnergyPlus/system/core/CodeIgniter.php on line 111
+[04-Aug-2016 04:30:21 America/New_York] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/admin/pages/contact.php on line 21
+[04-Aug-2016 08:34:37 America/New_York] PHP Fatal error:  Cannot use [] for reading in /home/dev1itda/public_html/TEMP/EnergyPlus/application/controllers/Contact.php on line 17
+[04-Aug-2016 08:34:37 America/New_York] PHP Fatal error:  Cannot use [] for reading in /home/dev1itda/public_html/TEMP/EnergyPlus/application/controllers/Contact.php on line 17
+[04-Aug-2016 08:34:51 America/New_York] PHP Fatal error:  Cannot use [] for reading in /home/dev1itda/public_html/TEMP/EnergyPlus/application/controllers/Contact.php on line 17
+[04-Aug-2016 09:24:06 America/New_York] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/admin/pages/about.php on line 17
+[04-Aug-2016 10:53:07 America/New_York] PHP Fatal error:  Call to undefined method Product_model::getContact() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/core/MY_Controller.php on line 30
+[09-Aug-2016 10:17:03 America/New_York] PHP Parse error:  syntax error, unexpected 'base_url' (T_STRING), expecting ',' or ';' in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/home/home.php on line 19
+[10-Aug-2016 07:14:34 America/New_York] PHP Parse error:  syntax error, unexpected '!' in /home/dev1itda/public_html/TEMP/EnergyPlus/application/controllers/Home.php on line 67
+[10-Aug-2016 07:15:11 America/New_York] PHP Parse error:  syntax error, unexpected '!' in /home/dev1itda/public_html/TEMP/EnergyPlus/application/controllers/Home.php on line 67
+[10-Aug-2016 07:15:28 America/New_York] PHP Parse error:  syntax error, unexpected '!' in /home/dev1itda/public_html/TEMP/EnergyPlus/application/controllers/Home.php on line 66
+[10-Aug-2016 07:15:39 America/New_York] PHP Parse error:  syntax error, unexpected '!' in /home/dev1itda/public_html/TEMP/EnergyPlus/application/controllers/Home.php on line 66
+[10-Aug-2016 07:15:51 America/New_York] PHP Parse error:  syntax error, unexpected '!' in /home/dev1itda/public_html/TEMP/EnergyPlus/application/controllers/Home.php on line 66
+[10-Aug-2016 07:15:55 America/New_York] PHP Parse error:  syntax error, unexpected '!' in /home/dev1itda/public_html/TEMP/EnergyPlus/application/controllers/Home.php on line 66
+[10-Aug-2016 07:44:17 America/New_York] PHP Fatal error:  Call to undefined method Admin_model::getWidgets() in /home/dev1itda/public_html/TEMP/EnergyPlus/application/controllers/Admin.php on line 198
+[10-Aug-2016 07:48:49 America/New_York] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/admin/pages/widgets.php on line 42
+[10-Aug-2016 08:19:19 America/New_York] PHP Fatal error:  Cannot use object of type stdClass as array in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/admin/pages/editWidget.php on line 17
+[10-Aug-2016 10:50:35 America/New_York] PHP Parse error:  syntax error, unexpected '{' in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/home/home.php on line 508
+[10-Aug-2016 10:50:56 America/New_York] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/home/home.php on line 511
+[15-Aug-2016 07:13:54 America/New_York] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/ask.php on line 45
+[15-Aug-2016 08:02:22 America/New_York] PHP Parse error:  syntax error, unexpected '$v' (T_VARIABLE), expecting ',' or ';' in /home/dev1itda/public_html/TEMP/EnergyPlus/application/views/pages/ask.php on line 99
